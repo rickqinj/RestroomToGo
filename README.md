@@ -4,6 +4,7 @@ There is only one washroom in Lincoln Appliance Service Centre office, and it is
 
 ## Design
 ![Structure diagram](README.assets/44.png)
+Notes: The "Reset button" in the above diagram is actually the button that is used to re-configure Wi-Fi connection.
 
 ## Hardware
 
