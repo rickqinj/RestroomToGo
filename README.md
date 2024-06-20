@@ -35,4 +35,4 @@ Wi-Fi cfg SSID: RestroomCfgAP
 1. When the gadget lost network connection, the built-in indicator will flash. Press the Wi-Fi config button will reset the network connection settings and activate the config AP "RestroomCfgAP". Use phone to connect to the AP and then go to the Wi-Fi connection configuration interface to config the Wi-Fi connection.
 2. Or, just press directly the Wi-Fi config button, it will reset the current Wi-Fi settings and activate the "RestroomCfgAP" and give a chance to re-set the Wi-Fi connection.
 ### Check status
-Open a browser on your device, and enter the link "http://resetroom.local/", you will see the current status. The webpage that shows you the status will refresh every 2 seconds.
+Open a browser on your device, and enter the link "http://resetroom.local/", you will see the current status. The webpage that shows you the status will refresh the status in every 2 seconds.
