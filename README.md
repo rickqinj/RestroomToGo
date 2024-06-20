@@ -23,8 +23,11 @@ GPIO-4 Wi-Fi config button (Mode: PULLUP-INPUT)
 GPIO-5 Washroom status sensor (Mode: PULLUP-INPUT)
 
 ## Application Information
+
 mDNS: restroom
+
 Access Link: http://restroom.local/
+
 Wi-Fi cfg SSID: RestroomCfgAP
 
 ## Operation
