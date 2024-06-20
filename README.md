@@ -16,3 +16,7 @@ Notes: The "Reset button" in the above diagram is actually the button that is us
 
 ![20230921003825](README.assets/20230921003825.png)
 
+## Application Information
+mDNS: restroom
+Access Link: http://restroom.local/
+Wi-Fi cfg SSID: 
