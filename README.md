@@ -17,7 +17,9 @@ Notes: The "Reset button" in the above diagram is actually the button that is us
 ![20230921003825](README.assets/20230921003825.png)
 
 GPIO-2 Built-in LED indicator (Mode: OUTPUT)
+
 GPIO-4 Wi-Fi config button (Mode: PULLUP-INPUT)
+
 GPIO-5 Washroom status sensor (Mode: PULLUP-INPUT)
 
 ## Application Information
